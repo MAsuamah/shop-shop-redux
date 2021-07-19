@@ -9,8 +9,6 @@ import { idbPromise } from '../../utils/helpers';
 
 function CategoryMenu() {
 
-  
-
   const state = useSelector((state) => {
     return state
   });
