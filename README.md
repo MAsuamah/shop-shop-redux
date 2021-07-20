@@ -59,9 +59,10 @@ credit card number `4242 4242 4242 4242`. The rest of the payment info can be an
 * React.js
 * Node.js
 * Stripe
+* Redux
 
 ## Website
-https://masuamah-shop-shop.herokuapp.com/
+
 
 ## Contributors
 Michelle Asuamah
