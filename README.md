@@ -62,7 +62,7 @@ credit card number `4242 4242 4242 4242`. The rest of the payment info can be an
 * Redux
 
 ## Website
-
+https://masuamah-shop-shop-redux.herokuapp.com/
 
 ## Contributors
 Michelle Asuamah
